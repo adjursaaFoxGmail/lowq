@@ -1,2 +1,2 @@
 # lowq
-Implementing low quality code
+Implementing low quality code for demo purpose
