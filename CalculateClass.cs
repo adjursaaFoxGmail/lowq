@@ -16,6 +16,20 @@ namespace lowq
             l7 = v7;
             l8 = v8;
             l9 = v9;
+            if (l1 > l2) // usually false
+            {
+                return;
+            }
+            else
+            {
+                l1 =l1 + 1; 
+            }
+            if (l2 > l3) // usually false
+            {
+                return;
+            }
+            else
+            {  l2 = l2 + 1; }            
         }
         public int SumOf9(int v1, int v2, int v3, int v4, int v5, int v6, int v7, int v8, int v9)
         {
