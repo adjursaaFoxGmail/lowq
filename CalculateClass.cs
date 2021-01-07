@@ -70,6 +70,10 @@ namespace lowq
         {
             return(l1+l2+l3+l4+l5+l6+l7+l8+l9);
         }
+        public int Sum12()
+        {
+            return(l1+l2);
+        }
     }
     
 }
