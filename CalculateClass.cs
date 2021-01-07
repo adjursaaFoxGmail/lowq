@@ -74,6 +74,14 @@ namespace lowq
         {
             return(l1+l2);
         }
+        public int Sum23()
+        {
+            return(l2+l3);
+        }
+        public int Sum34()
+        {
+            return(l3+l4);
+        }
     }
     
 }
