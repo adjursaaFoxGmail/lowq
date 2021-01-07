@@ -46,7 +46,21 @@ namespace lowq
                 return;
             }
             else
-            {  l2 = l2 + 1; }            
+            {  l2 = l2 + 1; } 
+            if (l7 == 87)
+                switch(l6)
+                {
+                    case 66:
+                        return;
+                        case 6:
+                    l6 +=1;
+                    break;
+                    case 67:
+                    l6 +=2;
+                    return;
+                    case 88:
+                    return;
+                }           
         }
         public int SumOf9(int v1, int v2, int v3, int v4, int v5, int v6, int v7, int v8, int v9)
         {
