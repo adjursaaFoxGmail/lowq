@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace lowq
+namespace HelloWorld
 {
     class Program
     {

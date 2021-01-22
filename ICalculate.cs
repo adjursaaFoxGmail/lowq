@@ -1,4 +1,4 @@
-namespace lowq
+namespace HelloWorld
 {
     public interface ICalculate
     {
