@@ -85,6 +85,7 @@ namespace HelloWorld
                 else
                 { 
                 l6 = l6 + 1;
+                l7 = l7 + 1;
                 }  
             }                      
         }
