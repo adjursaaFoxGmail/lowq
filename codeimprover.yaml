@@ -3,7 +3,7 @@ duplicationConfig:
   #Below patters are in reugular exporession
   exclusions:
     pathPatterns:
-      - \.json$
+     - \.json$
       #- \.yaml$
       - \.md$
     linePatterns:
