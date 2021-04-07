@@ -1,0 +1,10 @@
+duplicationConfig:
+  numberOfLinesToCompare: 7
+  #Below patters are in reugular exporession
+  exclusions:
+    pathPatterns:
+      - \.json$
+      - \.yaml$
+      - \.md$
+    linePatterns:
+      - //\S+;  
