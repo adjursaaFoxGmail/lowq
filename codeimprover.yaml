@@ -7,4 +7,4 @@ duplicationConfig:
       #- \.yaml$
       - \.md$
     linePatterns:
-      - //\!Åø{d!S;  
+      - //!Å/øø{d!S\;  
